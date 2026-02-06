@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: ergonautkb-zmk-module
       remote: ergonautkb
-      revision: v0.2-branch
+      revision: v0.3-branch
   self:
     path: config
